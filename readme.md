@@ -1,0 +1,1 @@
+This project demonstrates how to do a simple unit test with Jest. Read more https://thedevelopertt.ml
